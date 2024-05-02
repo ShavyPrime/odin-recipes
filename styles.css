@@ -1,9 +1,10 @@
 h1 {
   font-weight: bold;
   font-family: "Times New Roman", serif;
-  background-color: blue;
+  background-color: red;
 }
 
 body {
   font-family: Garamond, serif;
+  background-color: blue;
 }
