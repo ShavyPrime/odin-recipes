@@ -2,9 +2,11 @@ h1 {
   font-weight: bold;
   font-family: "Times New Roman", serif;
   background-color: red;
+  font-size: 25px;
 }
 
 body {
   font-family: Garamond, serif;
   background-color: blue;
+  outline: 4px solid red;
 }
